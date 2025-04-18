@@ -1,7 +1,7 @@
 # 🧠 Automated Fact-Checking Prediction Using Machine Learning
 
-![Header Image](https://unsplash.com/photos/ILpe0MpOYww/download?force=true&w=1920)  
-_Photo by [Koshu Kunii](https://unsplash.com/photos/ILpe0MpOYww) on Unsplash_
+![Fake News Concept](https://images.unsplash.com/photo-1611256009282-1fd2234fbd48?fit=crop&w=1350&q=80) 
+
 
 ## 🔍 Project Overview
 
