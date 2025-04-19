@@ -36,8 +36,7 @@ The final model was deployed using FastAPI and Google Cloud, offering a user-fac
 ---
 
 ## 📚 Notebooks
-
-- [`Fact-Checking ML Model: Scaling Implementation.ipynb`](./Fact-Checking%20ML%20Model:%20Scaling%20Implementation.ipynb) — Data Wrangling & Visualization
+- [`ML (2).ipynb`](./ML%20(2).ipynb) — Data Wrangling & Visualization
 - [`Evaluation_Report-3.ipynb`](./Evaluation_Report-3.ipynb) — Final Model Interpretation
 
 
