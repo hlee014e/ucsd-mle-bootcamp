@@ -39,10 +39,9 @@ The final model was deployed using FastAPI and Google Cloud, offering a user-fac
 
 - [`Fact-Checking ML Model: Scaling Implementation.ipynb`](./Fact-Checking%20ML%20Model:%20Scaling%20Implementation.ipynb) — Data Wrangling & Visualization
 - [`Evaluation_Report-3.ipynb`](./Evaluation_Report-3.ipynb) — Final Model Interpretation
-- `Flask.ipynb` — First Deployment Steps  
-- `Deep_Learning.ipynb` — Experimentation with DNN  
-- `Trees_and_Forests.ipynb` — Tree-based Models  
-- `Recommendation_Engines.ipynb` — Auxiliary ML Exploration
+
+
+
 
 _Notebooks not used in final deployment are stored in the `extras/` folder._
 
