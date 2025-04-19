@@ -42,7 +42,8 @@ The final model was deployed using FastAPI and Google Cloud, offering a user-fac
 
 - `EDA.ipynb` — Data Wrangling & Visualization  
 - `ML.ipynb` — Model Training and Evaluation  
-- `Evaluation_Report-3.ipynb` — Final Model Interpretation  
+- [`Evaluation_Report-3.ipynb`](./Evaluation_Report-3.ipynb) — Final Model Interpretation
+ 
 - `Fine_Tuning.ipynb` — GridSearchCV and Hyperparameter Tuning  
 - `Flask.ipynb` — First Deployment Steps  
 - `Deep_Learning.ipynb` — Experimentation with DNN  
