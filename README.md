@@ -16,14 +16,6 @@ The final model was deployed using FastAPI and Google Cloud, offering a user-fac
 
 ---
 
-## 📂 Table of Contents
-
-- [📄 Source Data](#source-data)
-- [📚 Notebooks](#notebooks)
-- [📑 Documents](#documents)
-- [⚙️ Model Overview](#model-overview)
-- [🚀 Deployment](#deployment)
-- [🛠️ Future Work](#future-work)
 
 
 
