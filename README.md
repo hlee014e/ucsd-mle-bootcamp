@@ -42,7 +42,7 @@ The final model was deployed using FastAPI and Google Cloud, offering a user-fac
 
 - `EDA.ipynb` — Data Wrangling & Visualization  
 - `ML.ipynb` — Model Training and Evaluation  
-- `Logistic_Regression.ipynb` — Final Model Interpretation  
+- `Evaluation_Report-3.ipynb` — Final Model Interpretation  
 - `Fine_Tuning.ipynb` — GridSearchCV and Hyperparameter Tuning  
 - `Flask.ipynb` — First Deployment Steps  
 - `Deep_Learning.ipynb` — Experimentation with DNN  
@@ -96,7 +96,7 @@ The final model is deployed on Google Cloud Run using FastAPI:
 ## 📸 Acknowledgments
 
 - Data Source: [PolitiFact.com](https://www.politifact.com/)
-- Image by [Koshu Kunii](https://unsplash.com/photos/ILpe0MpOYww) on Unsplash
+
 
 ---
 
