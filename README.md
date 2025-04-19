@@ -55,7 +55,7 @@ _Notebooks not used in final deployment are stored in the `extras/` folder._
 
 ## 📑 Documents
 
-- 📘 [Final Report (PDF)](./Automated%20Fact-Checking%20Prediction%20Using%20Machine%20Learning%20(1).pdf)  
+- 📘 [Final Report (PDF)](./Automated%20Fact-Checking%20Prediction%20Using%20Machine%20Learning%20.pdf)  
   Detailed explanation of methodology, challenges, and findings.
 
 - 🖥️ Slide Deck (coming soon)
