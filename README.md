@@ -68,21 +68,13 @@ _Notebooks not used in final deployment are stored in the `extras/` folder._
   - Predictive word analysis using conditional probability with smoothing
   - Clear association between certain terms and credibility labels
 
----
-
-## 🚀 Deployment
-
-The final model is deployed on Google Cloud Run using FastAPI:
-
-🌐 [Access the Deployed App](https://fastapi-app-273008876300.us-central1.run.app/)
-
----
 
 
 
-## 📸 Acknowledgments
 
-- Data Source: [PolitiFact.com](https://www.politifact.com/)
+
+
+
 
 
 ---
