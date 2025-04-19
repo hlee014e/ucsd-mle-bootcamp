@@ -33,7 +33,7 @@ The final model was deployed using FastAPI and Google Cloud, offering a user-fac
 
 ## 📚 Notebooks
 
-- `EDA.ipynb` — Data Wrangling & Visualization  
+- [`Fact-Checking ML Model: Scaling Implementation.ipynb`](./Fact-Checking%20ML%20Model:%20Scaling%20Implementation.ipynb) — Data Wrangling & Visualization
 - [`Evaluation_Report-3.ipynb`](./Evaluation_Report-3.ipynb) — Final Model Interpretation
 - `Flask.ipynb` — First Deployment Steps  
 - `Deep_Learning.ipynb` — Experimentation with DNN  
