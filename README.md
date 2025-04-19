@@ -1,11 +1,11 @@
-# 🧠 Automated Fact-Checking Prediction Using Machine Learning
+# Automated Fact-Checking Prediction Using Machine Learning
 
 ![Pinocchio](./politifact.png)
 
 
 
 
-## 🔍 Project Overview
+##  Project Overview
 
 In an era of viral misinformation, this project aims to build an **automated fact-checking system** using machine learning. Leveraging labeled claims from [PolitiFact.com](https://www.politifact.com/), the model classifies public statements into six credibility levels:  
 **True**, **Mostly True**, **Half True**, **Mostly False**, **False**, and **Pants on Fire**.
@@ -19,7 +19,7 @@ The final model was deployed using FastAPI and Google Cloud, offering a user-fac
 
 
 
-## 📄 Source Data
+##  Source Data
 
 - **Original Labeled Statements**: Scraped from [PolitiFact.com](https://www.politifact.com/)
 - **Scraping Notebook**: [`Copy_of_BeautifulSoupPractice.ipynb`](./Copy_of_BeautifulSoupPractice.ipynb)
@@ -35,7 +35,7 @@ The final model was deployed using FastAPI and Google Cloud, offering a user-fac
 
 ---
 
-## 📚 Notebooks
+##  Notebooks
 - [`ML (2).ipynb`](./ML%20(2).ipynb) — Data Wrangling & Visualization
 - [`Evaluation_Report-3.ipynb`](./Evaluation_Report-3.ipynb) — Final Model Interpretation
 
@@ -46,7 +46,7 @@ _Notebooks not used in final deployment are stored in the `extras/` folder._
 
 ---
 
-## 📑 Documents
+## Documents
 
 - 📘 [Final Report (PDF)](./Automated%20Fact-Checking%20Prediction%20Using%20Machine%20Learning.pdf)
 
