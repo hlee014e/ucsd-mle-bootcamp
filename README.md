@@ -12,7 +12,7 @@ In an era of viral misinformation, this project aims to build an **automated fac
 
 The final model was deployed using FastAPI and Google Cloud, offering a user-facing interface to assess the credibility of new claims.
 
-🌐 **Live App**: [Try the Fact-Checker →](https://fastapi-app-273008876300.us-central1.run.app/)
+ **Live App**: [Try the Fact-Checker →](https://fastapi-app-273008876300.us-central1.run.app/)
 
 ---
 
@@ -48,7 +48,7 @@ _Notebooks not used in final deployment are stored in the `extras/` folder._
 
 ## Documents
 
-- 📘 [Final Report (PDF)](./Automated%20Fact-Checking%20Prediction%20Using%20Machine%20Learning.pdf)
+- [Final Report (PDF)](./Automated%20Fact-Checking%20Prediction%20Using%20Machine%20Learning.pdf)
 
   Detailed explanation of methodology, challenges, and findings.
 
@@ -56,7 +56,7 @@ _Notebooks not used in final deployment are stored in the `extras/` folder._
 
 ---
 
-## ⚙️ Model Overview
+##  Model Overview
 
 - Models Tested: Naive Bayes, Logistic Regression, SVM, XGBoost, Random Forest
 - Best Model: **Logistic Regression** (Macro AUC = 0.7485)
