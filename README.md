@@ -30,6 +30,7 @@ The final model was deployed using FastAPI and Google Cloud, offering a user-fac
 ## 📄 Source Data
 
 - **Original Labeled Statements**: Scraped from [PolitiFact.com](https://www.politifact.com/)
+- **Scraping Notebook**: [`Copy_of_BeautifulSoupPractice.ipynb`](./Copy_of_BeautifulSoupPractice.ipynb)
 - **Metadata Includes**:
   - Statement text
   - Speaker/source
