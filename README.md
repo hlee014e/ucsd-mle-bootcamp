@@ -54,7 +54,11 @@ _Notebooks not used in final deployment are stored in the `extras/` folder._
 
 
 
----
+##  Model Overview
+
+A variety of models were evaluated including Naive Bayes, Logistic Regression, SVM, XGBoost, and Random Forest.  
+**Logistic Regression** showed the best performance in terms of AUC and interpretability.
+
 
 
 
