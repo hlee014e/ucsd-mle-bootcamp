@@ -1,6 +1,6 @@
 # 🧠 Automated Fact-Checking Prediction Using Machine Learning
 
-![Fake News Binary](https://images.unsplash.com/photo-1584433144859-1fc3ab64a957?fit=crop&w=1200&q=80)
+![Pinocchio](./politifact.png)
 
 
 
