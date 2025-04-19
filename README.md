@@ -53,7 +53,7 @@ _Notebooks not used in final deployment are stored in the `extras/` folder._
 
   Detailed explanation of methodology, challenges, and findings.
 
-- 🖥️ Slide Deck (coming soon)
+
 
 ---
 
