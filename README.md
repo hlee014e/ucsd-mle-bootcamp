@@ -56,17 +56,7 @@ _Notebooks not used in final deployment are stored in the `extras/` folder._
 
 ---
 
-##  Model Overview
 
-- Models Tested: Naive Bayes, Logistic Regression, SVM, XGBoost, Random Forest
-- Best Model: **Logistic Regression** (Macro AUC = 0.7485)
-- Key Features:
-  - Cleaned and tokenized statements
-  - One-hot encoded source categories
-  - Temporal patterns from publication dates
-- Interpretability:
-  - Predictive word analysis using conditional probability with smoothing
-  - Clear association between certain terms and credibility labels
 
 
 
