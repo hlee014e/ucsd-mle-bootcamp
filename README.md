@@ -79,13 +79,7 @@ The final model is deployed on Google Cloud Run using FastAPI:
 
 ---
 
-## 🛠️ Future Work
 
-- Automate real-time data scraping from PolitiFact
-- Implement NER for better speaker/source classification
-- Explore transformer-based architectures like BERT for deeper language understanding
-
----
 
 ## 📸 Acknowledgments
 
