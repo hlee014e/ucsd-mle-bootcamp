@@ -25,8 +25,7 @@ The final model was deployed using FastAPI and Google Cloud, offering a user-fac
 - **Scraping Notebook**: [`Copy_of_BeautifulSoupPractice.ipynb`](./Copy_of_BeautifulSoupPractice.ipynb)
   - [`politifact.csv`](./politifact.csv) — Structured dataset of labeled statements scraped from PolitiFact.com.  
   This file contains metadata including the statement text, speaker, rating, and publication date, used to train and evaluate fact-checking models.  
-  > ⚠️ *For educational and research purposes only. All content originally sourced from [PolitiFact.com](https://www.politifact.com/). Rights remain with the original publisher.*
-
+  > *This dataset was collected for educational and research purposes only. All original content and rights remain with [PolitiFact.com](https://www.politifact.com).*
 - **Metadata Includes**:
   - Statement text
   - Speaker/source
