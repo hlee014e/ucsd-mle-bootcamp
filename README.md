@@ -36,7 +36,7 @@ The final model was deployed using FastAPI and Google Cloud, offering a user-fac
 
 ##  Notebooks
 - [`ML.ipynb`](./ML%20.ipynb) — Data Wrangling & Visualization
-- [`Evaluation_Report-3.ipynb`](./Evaluation_Report-3.ipynb) — Final Model Interpretation
+- [`Evaluation_Report.ipynb`](./Evaluation_Report.ipynb) — Final Model Interpretation
  
 A variety of models were evaluated, including Naive Bayes, Logistic Regression, SVM, XGBoost, and Random Forest.  
 **Logistic Regression** was selected for its balance of performance and efficiency.
